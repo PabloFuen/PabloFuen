@@ -15,7 +15,7 @@
 <h3 align="center">Clustering Experimentation</h3>
 <div align="center">
 <a href="https://github.com/PabloFuen/Android-Expert" target="_blank"></a>
-<p>This project explores **clustering** frog calls using MFCCs to determine if vocal patterns align with taxonomic classification, offering insights into species identification through sound.</p>
+<p>This project explores <strong> clustering </strong> frog calls using MFCCs to determine if vocal patterns align with taxonomic classification, offering insights into species identification through sound.</p>
 </div>
 </td>
 
